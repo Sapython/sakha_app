@@ -1,4 +1,4 @@
-package com.example.sakha_app
+package com.example.Sakha
 
 import io.flutter.embedding.android.FlutterActivity
 
